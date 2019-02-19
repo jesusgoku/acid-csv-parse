@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node -r esm src"
+    "start": "node -r esm src",
+    "parse": "node -r esm src",
+    "match": "node -r esm src/match.js"
   },
   "dependencies": {},
   "devDependencies": {
