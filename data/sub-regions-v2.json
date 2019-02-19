@@ -1,0 +1,3152 @@
+[
+  {
+    "commerceId": "0102",
+    "commerceParentId": "1",
+    "name": "Iquique",
+    "id": "01101",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0106",
+    "commerceParentId": "1",
+    "name": "Huara",
+    "id": "01404",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0107",
+    "commerceParentId": "1",
+    "name": "Camiña",
+    "id": "01402",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0108",
+    "commerceParentId": "1",
+    "name": "Colchane",
+    "id": "01403",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0109",
+    "commerceParentId": "1",
+    "name": "Pica",
+    "id": "01405",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0110",
+    "commerceParentId": "1",
+    "name": "Pozo Almonte",
+    "id": "01401",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0111",
+    "commerceParentId": "1",
+    "name": "Alto Hospicio",
+    "id": "01107",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0113",
+    "commerceParentId": "1",
+    "name": "Pozo Almonte (La Tirana)",
+    "id": "0113",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0114",
+    "commerceParentId": "1",
+    "name": "Pozo Almonte (La Huayca)",
+    "id": "0114",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0115",
+    "commerceParentId": "1",
+    "name": "Pica (Matilla)",
+    "id": "0115",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0116",
+    "commerceParentId": "1",
+    "name": "Iquique (Playa Blanca)",
+    "id": "0116",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0117",
+    "commerceParentId": "1",
+    "name": "Iquique (Playa Lobito)",
+    "id": "0117",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0118",
+    "commerceParentId": "1",
+    "name": "Iquique (Los Verdes)",
+    "id": "0118",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0120",
+    "commerceParentId": "1",
+    "name": "Iquique (Playa Yape)",
+    "id": "0120",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0121",
+    "commerceParentId": "1",
+    "name": "Iquique (Playa Chanavayita)",
+    "id": "0121",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0122",
+    "commerceParentId": "1",
+    "name": "Iquique (Patache)",
+    "id": "0122",
+    "parentId": "1"
+  },
+  {
+    "commerceId": "0201",
+    "commerceParentId": "2",
+    "name": "Antofagasta",
+    "id": "02101",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0202",
+    "commerceParentId": "2",
+    "name": "Tocopilla",
+    "id": "02301",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0203",
+    "commerceParentId": "2",
+    "name": "María Elena",
+    "id": "02302",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0204",
+    "commerceParentId": "2",
+    "name": "Calama",
+    "id": "02201",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0205",
+    "commerceParentId": "2",
+    "name": "Ollague",
+    "id": "02202",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0206",
+    "commerceParentId": "2",
+    "name": "San Pedro de Atacama",
+    "id": "02203",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0207",
+    "commerceParentId": "2",
+    "name": "Mejillones",
+    "id": "02102",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0208",
+    "commerceParentId": "2",
+    "name": "Sierra Gorda",
+    "id": "02103",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0209",
+    "commerceParentId": "2",
+    "name": "Taltal",
+    "id": "02104",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0210",
+    "commerceParentId": "2",
+    "name": "Sierra Gorda (Baquedano)",
+    "id": "0210",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0212",
+    "commerceParentId": "2",
+    "name": "San Pedro de Atacama (Toconao)",
+    "id": "0212",
+    "parentId": "2"
+  },
+  {
+    "commerceId": "0301",
+    "commerceParentId": "3",
+    "name": "Copiapó",
+    "id": "03101",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0302",
+    "commerceParentId": "3",
+    "name": "Chañaral",
+    "id": "03201",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0303",
+    "commerceParentId": "3",
+    "name": "Diego de Almagro",
+    "id": "03202",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0304",
+    "commerceParentId": "3",
+    "name": "Caldera",
+    "id": "03102",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0305",
+    "commerceParentId": "3",
+    "name": "Tierra Amarilla",
+    "id": "03103",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0306",
+    "commerceParentId": "3",
+    "name": "Vallenar",
+    "id": "03301",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0307",
+    "commerceParentId": "3",
+    "name": "Freirina",
+    "id": "03303",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0308",
+    "commerceParentId": "3",
+    "name": "Huasco",
+    "id": "03304",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0309",
+    "commerceParentId": "3",
+    "name": "Alto del Carmen",
+    "id": "03302",
+    "parentId": "3"
+  },
+  {
+    "commerceId": "0401",
+    "commerceParentId": "4",
+    "name": "Coquimbo (Tongoy)",
+    "id": "0401",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0402",
+    "commerceParentId": "4",
+    "name": "La Serena",
+    "id": "04101",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0403",
+    "commerceParentId": "4",
+    "name": "La Higuera",
+    "id": "04104",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0404",
+    "commerceParentId": "4",
+    "name": "Coquimbo",
+    "id": "04102",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0405",
+    "commerceParentId": "4",
+    "name": "Andacollo",
+    "id": "04103",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0406",
+    "commerceParentId": "4",
+    "name": "Vicuña",
+    "id": "04106",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0407",
+    "commerceParentId": "4",
+    "name": "Paihuano",
+    "id": "04105",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0408",
+    "commerceParentId": "4",
+    "name": "Ovalle",
+    "id": "04301",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0409",
+    "commerceParentId": "4",
+    "name": "Río Hurtado",
+    "id": "04305",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0410",
+    "commerceParentId": "4",
+    "name": "Monte Patria",
+    "id": "04303",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0411",
+    "commerceParentId": "4",
+    "name": "Combarbalá",
+    "id": "04302",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0412",
+    "commerceParentId": "4",
+    "name": "Punitaqui",
+    "id": "04304",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0413",
+    "commerceParentId": "4",
+    "name": "Illapel",
+    "id": "04201",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0414",
+    "commerceParentId": "4",
+    "name": "Salamanca",
+    "id": "04204",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0415",
+    "commerceParentId": "4",
+    "name": "Los Vilos",
+    "id": "04203",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0416",
+    "commerceParentId": "4",
+    "name": "Canela (Mincha)",
+    "id": "0416",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0417",
+    "commerceParentId": "4",
+    "name": "Coquimbo (Guanaqueros)",
+    "id": "0417",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0418",
+    "commerceParentId": "4",
+    "name": "Coquimbo (Totoralillo)",
+    "id": "0418",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0419",
+    "commerceParentId": "4",
+    "name": "Coquimbo (Las Tacas)",
+    "id": "0419",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0420",
+    "commerceParentId": "4",
+    "name": "Coquimbo (Pan De Azucar)",
+    "id": "0420",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0421",
+    "commerceParentId": "4",
+    "name": "Río Hurtado (Morrillos)",
+    "id": "0421",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0422",
+    "commerceParentId": "4",
+    "name": "Vicuña (Diaguitas)",
+    "id": "0422",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0423",
+    "commerceParentId": "4",
+    "name": "Paihuano (Pisco Elqui)",
+    "id": "0423",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0424",
+    "commerceParentId": "4",
+    "name": "Vicuña (Rivadavia)",
+    "id": "0424",
+    "parentId": "4"
+  },
+  {
+    "commerceId": "0501",
+    "commerceParentId": "5",
+    "name": "Los Andes",
+    "id": "05301",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0502",
+    "commerceParentId": "5",
+    "name": "Casablanca",
+    "id": "05102",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0503",
+    "commerceParentId": "5",
+    "name": "Llay Llay",
+    "id": "05703",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0504",
+    "commerceParentId": "5",
+    "name": "Limache",
+    "id": "05505",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0506",
+    "commerceParentId": "5",
+    "name": "San Felipe",
+    "id": "05701",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0507",
+    "commerceParentId": "5",
+    "name": "La Ligua",
+    "id": "05401",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0508",
+    "commerceParentId": "5",
+    "name": "Petorca",
+    "id": "05404",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0509",
+    "commerceParentId": "5",
+    "name": "Cabildo",
+    "id": "05402",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0510",
+    "commerceParentId": "5",
+    "name": "Zapallar",
+    "id": "05405",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0511",
+    "commerceParentId": "5",
+    "name": "Papudo",
+    "id": "05403",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0512",
+    "commerceParentId": "5",
+    "name": "San Esteban",
+    "id": "05304",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0513",
+    "commerceParentId": "5",
+    "name": "Calle Larga",
+    "id": "05302",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0514",
+    "commerceParentId": "5",
+    "name": "Rinconada",
+    "id": "05303",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0515",
+    "commerceParentId": "5",
+    "name": "Putaendo",
+    "id": "05705",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0516",
+    "commerceParentId": "5",
+    "name": "Santa María",
+    "id": "05706",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0517",
+    "commerceParentId": "5",
+    "name": "Panquehue",
+    "id": "05704",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0518",
+    "commerceParentId": "5",
+    "name": "Catemu",
+    "id": "05702",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0519",
+    "commerceParentId": "5",
+    "name": "Quillota",
+    "id": "05501",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0520",
+    "commerceParentId": "5",
+    "name": "La Cruz",
+    "id": "05504",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0521",
+    "commerceParentId": "5",
+    "name": "Calera",
+    "id": "05502",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0522",
+    "commerceParentId": "5",
+    "name": "Nogales",
+    "id": "05506",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0523",
+    "commerceParentId": "5",
+    "name": "Hijuelas",
+    "id": "05503",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0524",
+    "commerceParentId": "5",
+    "name": "Olmué",
+    "id": "05507",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0525",
+    "commerceParentId": "5",
+    "name": "Valparaíso",
+    "id": "05101",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0526",
+    "commerceParentId": "5",
+    "name": "Viña del Mar",
+    "id": "05109",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0527",
+    "commerceParentId": "5",
+    "name": "Quintero",
+    "id": "05107",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0528",
+    "commerceParentId": "5",
+    "name": "Puchuncaví",
+    "id": "05105",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0529",
+    "commerceParentId": "5",
+    "name": "Quilpué",
+    "id": "05106",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0530",
+    "commerceParentId": "5",
+    "name": "Villa Alemana",
+    "id": "05108",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0532",
+    "commerceParentId": "5",
+    "name": "San Antonio",
+    "id": "05601",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0533",
+    "commerceParentId": "5",
+    "name": "Cartagena",
+    "id": "05603",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0534",
+    "commerceParentId": "5",
+    "name": "El Tabo",
+    "id": "05605",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0535",
+    "commerceParentId": "5",
+    "name": "El Quisco",
+    "id": "05604",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0536",
+    "commerceParentId": "5",
+    "name": "Algarrobo",
+    "id": "05602",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0537",
+    "commerceParentId": "5",
+    "name": "Santo Domingo",
+    "id": "05606",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0538",
+    "commerceParentId": "5",
+    "name": "Isla de Pascua",
+    "id": "05201",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0539",
+    "commerceParentId": "5",
+    "name": "Concón",
+    "id": "05103",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0540",
+    "commerceParentId": "5",
+    "name": "Placilla",
+    "id": "06308",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0541",
+    "commerceParentId": "5",
+    "name": "Casablanca (Quintay)",
+    "id": "0541",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0542",
+    "commerceParentId": "5",
+    "name": "Valparaíso (Laguna Verde)",
+    "id": "0542",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0543",
+    "commerceParentId": "5",
+    "name": "Puchuncaví (Horcon)",
+    "id": "0543",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0544",
+    "commerceParentId": "5",
+    "name": "Puchuncaví (Ventanas)",
+    "id": "0544",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0545",
+    "commerceParentId": "5",
+    "name": "Puchuncaví (Maitencillo)",
+    "id": "0545",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0546",
+    "commerceParentId": "5",
+    "name": "Puchuncaví (Marbella)",
+    "id": "0546",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0547",
+    "commerceParentId": "5",
+    "name": "Quilpué (Belloto)",
+    "id": "0547",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0548",
+    "commerceParentId": "5",
+    "name": "Quilpué (Penablanca)",
+    "id": "0548",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0549",
+    "commerceParentId": "5",
+    "name": "Olmué (Lo Narvaez)",
+    "id": "0549",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0550",
+    "commerceParentId": "5",
+    "name": "Olmué (Granizo)",
+    "id": "0550",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0551",
+    "commerceParentId": "5",
+    "name": "Calera (Artificio)",
+    "id": "0551",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0552",
+    "commerceParentId": "5",
+    "name": "Quintero (Loncura)",
+    "id": "0552",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0553",
+    "commerceParentId": "5",
+    "name": "San Pedro",
+    "id": "13505",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "0554",
+    "commerceParentId": "5",
+    "name": "Nogales (El Melon)",
+    "id": "0554",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0556",
+    "commerceParentId": "5",
+    "name": "Casablanca (Lagunillas)",
+    "id": "0556",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0557",
+    "commerceParentId": "5",
+    "name": "Los Andes (Saladillo)",
+    "id": "0557",
+    "parentId": "5"
+  },
+  {
+    "commerceId": "0601",
+    "commerceParentId": "6",
+    "name": "Rancagua",
+    "id": "06101",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0602",
+    "commerceParentId": "6",
+    "name": "Graneros",
+    "id": "06106",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0603",
+    "commerceParentId": "6",
+    "name": "Mostazal",
+    "id": "06110",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0604",
+    "commerceParentId": "6",
+    "name": "Codegua",
+    "id": "06102",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0605",
+    "commerceParentId": "6",
+    "name": "Machalí",
+    "id": "06108",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0606",
+    "commerceParentId": "6",
+    "name": "Olivar",
+    "id": "06111",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0607",
+    "commerceParentId": "6",
+    "name": "Requinoa",
+    "id": "06116",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0608",
+    "commerceParentId": "6",
+    "name": "Rengo",
+    "id": "06115",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0609",
+    "commerceParentId": "6",
+    "name": "Malloa",
+    "id": "06109",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0610",
+    "commerceParentId": "6",
+    "name": "Quinta de Tilcoco",
+    "id": "06114",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0611",
+    "commerceParentId": "6",
+    "name": "San Vicente",
+    "id": "06117",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0612",
+    "commerceParentId": "6",
+    "name": "Pichidegua",
+    "id": "06113",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0613",
+    "commerceParentId": "6",
+    "name": "Peumo",
+    "id": "06112",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0614",
+    "commerceParentId": "6",
+    "name": "Coltauco",
+    "id": "06104",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0615",
+    "commerceParentId": "6",
+    "name": "Coinco",
+    "id": "06103",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0616",
+    "commerceParentId": "6",
+    "name": "Doñihue",
+    "id": "06105",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0617",
+    "commerceParentId": "6",
+    "name": "Las Cabras",
+    "id": "06107",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0618",
+    "commerceParentId": "6",
+    "name": "San Fernando",
+    "id": "06301",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0619",
+    "commerceParentId": "6",
+    "name": "Chimbarongo",
+    "id": "06303",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0620",
+    "commerceParentId": "6",
+    "name": "Placilla",
+    "id": "0620",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0621",
+    "commerceParentId": "6",
+    "name": "Nancagua",
+    "id": "06305",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0622",
+    "commerceParentId": "6",
+    "name": "Chépica",
+    "id": "06302",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0623",
+    "commerceParentId": "6",
+    "name": "Santa Cruz",
+    "id": "06310",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0624",
+    "commerceParentId": "6",
+    "name": "Lolol",
+    "id": "06304",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0625",
+    "commerceParentId": "6",
+    "name": "Pumanque",
+    "id": "06309",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0626",
+    "commerceParentId": "6",
+    "name": "Palmilla",
+    "id": "06306",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0627",
+    "commerceParentId": "6",
+    "name": "Peralillo",
+    "id": "06307",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0628",
+    "commerceParentId": "6",
+    "name": "Pichilemu",
+    "id": "06201",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0629",
+    "commerceParentId": "6",
+    "name": "Navidad",
+    "id": "06205",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0630",
+    "commerceParentId": "6",
+    "name": "Litueche",
+    "id": "06203",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0631",
+    "commerceParentId": "6",
+    "name": "La Estrella",
+    "id": "06202",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0632",
+    "commerceParentId": "6",
+    "name": "Marchihue",
+    "id": "06204",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0633",
+    "commerceParentId": "6",
+    "name": "Paredones",
+    "id": "06206",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0634",
+    "commerceParentId": "6",
+    "name": "Machalí (Coya)",
+    "id": "0634",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0635",
+    "commerceParentId": "6",
+    "name": "Requinoa (Los Lirios)",
+    "id": "0635",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0636",
+    "commerceParentId": "6",
+    "name": "Rengo (Rosario)",
+    "id": "0636",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0637",
+    "commerceParentId": "6",
+    "name": "Malloa (Pelequen)",
+    "id": "0637",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0638",
+    "commerceParentId": "6",
+    "name": "Doñihue (Lo Miranda)",
+    "id": "0638",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0639",
+    "commerceParentId": "6",
+    "name": "Navidad (Rapel)",
+    "id": "0639",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0641",
+    "commerceParentId": "6",
+    "name": "Chimbarongo (Santa Teresa)",
+    "id": "0641",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0642",
+    "commerceParentId": "6",
+    "name": "Olivar (Gultro)",
+    "id": "0642",
+    "parentId": "6"
+  },
+  {
+    "commerceId": "0701",
+    "commerceParentId": "7",
+    "name": "Curicó",
+    "id": "07301",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0702",
+    "commerceParentId": "7",
+    "name": "Teno",
+    "id": "07308",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0703",
+    "commerceParentId": "7",
+    "name": "Romeral",
+    "id": "07306",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0704",
+    "commerceParentId": "7",
+    "name": "Molina",
+    "id": "07304",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0705",
+    "commerceParentId": "7",
+    "name": "Sagrada Familia",
+    "id": "07307",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0706",
+    "commerceParentId": "7",
+    "name": "Hualañé",
+    "id": "07302",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0707",
+    "commerceParentId": "7",
+    "name": "Licantén",
+    "id": "07303",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0708",
+    "commerceParentId": "7",
+    "name": "Vichuquén",
+    "id": "07309",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0709",
+    "commerceParentId": "7",
+    "name": "Rauco",
+    "id": "07305",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0710",
+    "commerceParentId": "7",
+    "name": "Talca",
+    "id": "07101",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0711",
+    "commerceParentId": "7",
+    "name": "Pelarco",
+    "id": "07106",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0712",
+    "commerceParentId": "7",
+    "name": "Río Claro",
+    "id": "07108",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0713",
+    "commerceParentId": "7",
+    "name": "San Clemente",
+    "id": "07109",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0714",
+    "commerceParentId": "7",
+    "name": "Maule",
+    "id": "07105",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0715",
+    "commerceParentId": "7",
+    "name": "Empedrado",
+    "id": "07104",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0716",
+    "commerceParentId": "7",
+    "name": "Pencahue",
+    "id": "07107",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0717",
+    "commerceParentId": "7",
+    "name": "Constitución",
+    "id": "07102",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0718",
+    "commerceParentId": "7",
+    "name": "Curepto",
+    "id": "07103",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0719",
+    "commerceParentId": "7",
+    "name": "Linares",
+    "id": "07401",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0720",
+    "commerceParentId": "7",
+    "name": "Yerbas Buenas",
+    "id": "07408",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0721",
+    "commerceParentId": "7",
+    "name": "Colbún",
+    "id": "07402",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0722",
+    "commerceParentId": "7",
+    "name": "Longaví",
+    "id": "07403",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0723",
+    "commerceParentId": "7",
+    "name": "Parral",
+    "id": "07404",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0724",
+    "commerceParentId": "7",
+    "name": "Retiro",
+    "id": "07405",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0725",
+    "commerceParentId": "7",
+    "name": "Villa Alegre",
+    "id": "07407",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0726",
+    "commerceParentId": "7",
+    "name": "San Javier",
+    "id": "07406",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0727",
+    "commerceParentId": "7",
+    "name": "Cauquenes",
+    "id": "07201",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0728",
+    "commerceParentId": "7",
+    "name": "Pelluhue",
+    "id": "07203",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0729",
+    "commerceParentId": "7",
+    "name": "Chanco",
+    "id": "07202",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0730",
+    "commerceParentId": "7",
+    "name": "San Rafael",
+    "id": "07110",
+    "parentId": "7"
+  },
+  {
+    "commerceId": "0801",
+    "commerceParentId": "8",
+    "name": "Concepción",
+    "id": "08101",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0802",
+    "commerceParentId": "8",
+    "name": "Talcahuano",
+    "id": "08110",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0803",
+    "commerceParentId": "8",
+    "name": "Penco",
+    "id": "08107",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0804",
+    "commerceParentId": "8",
+    "name": "Tomé",
+    "id": "08111",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0805",
+    "commerceParentId": "8",
+    "name": "Coronel",
+    "id": "08102",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0806",
+    "commerceParentId": "8",
+    "name": "Lota",
+    "id": "08106",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0807",
+    "commerceParentId": "8",
+    "name": "Hualqui",
+    "id": "08105",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0808",
+    "commerceParentId": "8",
+    "name": "Florida",
+    "id": "08104",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0809",
+    "commerceParentId": "8",
+    "name": "Santa Juana",
+    "id": "08109",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0810",
+    "commerceParentId": "8",
+    "name": "Arauco",
+    "id": "08202",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0811",
+    "commerceParentId": "8",
+    "name": "Chillán",
+    "id": "08401",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0812",
+    "commerceParentId": "8",
+    "name": "Cabrero",
+    "id": "08303",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0813",
+    "commerceParentId": "8",
+    "name": "Quilleco",
+    "id": "08309",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0814",
+    "commerceParentId": "8",
+    "name": "Los Angeles",
+    "id": "08301",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0815",
+    "commerceParentId": "8",
+    "name": "Laja",
+    "id": "08304",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0816",
+    "commerceParentId": "8",
+    "name": "Los Alamos",
+    "id": "08206",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0817",
+    "commerceParentId": "8",
+    "name": "San Rosendo",
+    "id": "08310",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0818",
+    "commerceParentId": "8",
+    "name": "Curanilahue",
+    "id": "08205",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0819",
+    "commerceParentId": "8",
+    "name": "Cañete",
+    "id": "08203",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0820",
+    "commerceParentId": "8",
+    "name": "Yumbel",
+    "id": "08313",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0821",
+    "commerceParentId": "8",
+    "name": "Ranquil",
+    "id": "08415",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0822",
+    "commerceParentId": "8",
+    "name": "Lebu",
+    "id": "08201",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0823",
+    "commerceParentId": "8",
+    "name": "Mulchén",
+    "id": "08305",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0824",
+    "commerceParentId": "8",
+    "name": "Nacimiento",
+    "id": "08306",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0825",
+    "commerceParentId": "8",
+    "name": "San Carlos",
+    "id": "08416",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0826",
+    "commerceParentId": "8",
+    "name": "Quillón",
+    "id": "08413",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0827",
+    "commerceParentId": "8",
+    "name": "Coelemu",
+    "id": "08404",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0828",
+    "commerceParentId": "8",
+    "name": "Bulnes",
+    "id": "08402",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0829",
+    "commerceParentId": "8",
+    "name": "Yungay",
+    "id": "08421",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0830",
+    "commerceParentId": "8",
+    "name": "Tucapel",
+    "id": "08312",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0831",
+    "commerceParentId": "8",
+    "name": "Antuco",
+    "id": "08302",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0832",
+    "commerceParentId": "8",
+    "name": "Negrete",
+    "id": "08307",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0833",
+    "commerceParentId": "8",
+    "name": "Quirihue",
+    "id": "08414",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0834",
+    "commerceParentId": "8",
+    "name": "Tirua",
+    "id": "08207",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0835",
+    "commerceParentId": "8",
+    "name": "Contulmo",
+    "id": "08204",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0836",
+    "commerceParentId": "8",
+    "name": "Santa Bárbara",
+    "id": "08311",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0837",
+    "commerceParentId": "8",
+    "name": "Ñiquén",
+    "id": "08409",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0838",
+    "commerceParentId": "8",
+    "name": "San Fabián",
+    "id": "08417",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0839",
+    "commerceParentId": "8",
+    "name": "Coihueco",
+    "id": "08405",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0840",
+    "commerceParentId": "8",
+    "name": "Pinto",
+    "id": "08411",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0841",
+    "commerceParentId": "8",
+    "name": "San Ignacio",
+    "id": "08418",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0842",
+    "commerceParentId": "8",
+    "name": "El Carmen",
+    "id": "08407",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0843",
+    "commerceParentId": "8",
+    "name": "Pemuco",
+    "id": "08410",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0844",
+    "commerceParentId": "8",
+    "name": "Portezuelo",
+    "id": "08412",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0845",
+    "commerceParentId": "8",
+    "name": "Trehuaco",
+    "id": "08420",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0846",
+    "commerceParentId": "8",
+    "name": "Cobquecura",
+    "id": "08403",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0847",
+    "commerceParentId": "8",
+    "name": "Ninhue",
+    "id": "08408",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0848",
+    "commerceParentId": "8",
+    "name": "San Nicolás",
+    "id": "08419",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0849",
+    "commerceParentId": "8",
+    "name": "Quilaco",
+    "id": "08308",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0850",
+    "commerceParentId": "8",
+    "name": "Chillán Viejo",
+    "id": "08406",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0851",
+    "commerceParentId": "8",
+    "name": "Chiguayante",
+    "id": "08103",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0852",
+    "commerceParentId": "8",
+    "name": "San Pedro De La Paz",
+    "id": "08108",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0853",
+    "commerceParentId": "8",
+    "name": "Hualpén",
+    "id": "08112",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0854",
+    "commerceParentId": "8",
+    "name": "Chillán (Quinchamali)",
+    "id": "0854",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0855",
+    "commerceParentId": "8",
+    "name": "Bulnes (Santa Clara)",
+    "id": "0855",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0856",
+    "commerceParentId": "8",
+    "name": "Ranquil (Confluencia)",
+    "id": "0856",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0857",
+    "commerceParentId": "8",
+    "name": "Bulnes (Pueblo Seco)",
+    "id": "0857",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0858",
+    "commerceParentId": "8",
+    "name": "Coihueco (Cato)",
+    "id": "0858",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0859",
+    "commerceParentId": "8",
+    "name": "Ranquil (Nipas)",
+    "id": "0859",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0860",
+    "commerceParentId": "8",
+    "name": "San Ignacio (Recinto)",
+    "id": "0860",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0861",
+    "commerceParentId": "8",
+    "name": "Chillán (Talquipen)",
+    "id": "0861",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0862",
+    "commerceParentId": "8",
+    "name": "Chillán (Las Trancas)",
+    "id": "0862",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0863",
+    "commerceParentId": "8",
+    "name": "Chillán (Cocharcas)",
+    "id": "0863",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0864",
+    "commerceParentId": "8",
+    "name": "Cabrero (Campanario)",
+    "id": "0864",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0865",
+    "commerceParentId": "8",
+    "name": "Cabrero (Monte Aguila)",
+    "id": "0865",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0866",
+    "commerceParentId": "8",
+    "name": "Lota (Colcura)",
+    "id": "0866",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0867",
+    "commerceParentId": "8",
+    "name": "Tomé (Rafael)",
+    "id": "0867",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0868",
+    "commerceParentId": "8",
+    "name": "Hualpen",
+    "id": "0868",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0869",
+    "commerceParentId": "8",
+    "name": "Concepción (Agua Dl Gloria)",
+    "id": "0869",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0870",
+    "commerceParentId": "8",
+    "name": "Quilleco (Canteras)",
+    "id": "0870",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0871",
+    "commerceParentId": "8",
+    "name": "Yungay (Cholguan)",
+    "id": "0871",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0872",
+    "commerceParentId": "8",
+    "name": "Florida (Copiulemu)",
+    "id": "0872",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0873",
+    "commerceParentId": "8",
+    "name": "Talcahuano (El Alamo)",
+    "id": "0873",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0874",
+    "commerceParentId": "8",
+    "name": "Tucapel (Huepil)",
+    "id": "0874",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0876",
+    "commerceParentId": "8",
+    "name": "Yumbel (Rio Claro)",
+    "id": "0876",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0877",
+    "commerceParentId": "8",
+    "name": "Quilaco (Rucalhue)",
+    "id": "0877",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0878",
+    "commerceParentId": "8",
+    "name": "Los Angeles (Santa Fe)",
+    "id": "0878",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0879",
+    "commerceParentId": "8",
+    "name": "Yumbel (Tomeco)",
+    "id": "0879",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0880",
+    "commerceParentId": "8",
+    "name": "Quilleco (Villa Las Mercedes)",
+    "id": "0880",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0881",
+    "commerceParentId": "8",
+    "name": "Los Angeles (Salto Del Laja)",
+    "id": "0881",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0882",
+    "commerceParentId": "8",
+    "name": "Los Angeles (San Carlos Los Ang)",
+    "id": "0882",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0883",
+    "commerceParentId": "8",
+    "name": "Tomé (Cocholgue)",
+    "id": "0883",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0884",
+    "commerceParentId": "8",
+    "name": "Tomé (Coliumo)",
+    "id": "0884",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0885",
+    "commerceParentId": "8",
+    "name": "Tomé (Dichato)",
+    "id": "0885",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0886",
+    "commerceParentId": "8",
+    "name": "Tomé (Pingueral)",
+    "id": "0886",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0887",
+    "commerceParentId": "8",
+    "name": "Talcahuano (Tumbes)",
+    "id": "0887",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0888",
+    "commerceParentId": "8",
+    "name": "Arauco (Carampangue)",
+    "id": "0888",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0889",
+    "commerceParentId": "8",
+    "name": "Arauco (Laraquete)",
+    "id": "0889",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0893",
+    "commerceParentId": "8",
+    "name": "Coihueco (Niblinto)",
+    "id": "0893",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0894",
+    "commerceParentId": "8",
+    "name": "San Carlos (Ninquihue)",
+    "id": "0894",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0895",
+    "commerceParentId": "8",
+    "name": "Bulnes (Rucapequen)",
+    "id": "0895",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0896",
+    "commerceParentId": "8",
+    "name": "Ranquil (Nueva Aldea)",
+    "id": "0896",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0897",
+    "commerceParentId": "8",
+    "name": "Chillán (Oro Verde)",
+    "id": "0897",
+    "parentId": "8"
+  },
+  {
+    "commerceId": "0901",
+    "commerceParentId": "9",
+    "name": "Angol",
+    "id": "09201",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0902",
+    "commerceParentId": "9",
+    "name": "Renaico",
+    "id": "09209",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0903",
+    "commerceParentId": "9",
+    "name": "Collipulli",
+    "id": "09202",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0904",
+    "commerceParentId": "9",
+    "name": "Lonquimay",
+    "id": "09205",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0905",
+    "commerceParentId": "9",
+    "name": "Curacautín",
+    "id": "09203",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0906",
+    "commerceParentId": "9",
+    "name": "Ercilla",
+    "id": "09204",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0907",
+    "commerceParentId": "9",
+    "name": "Victoria",
+    "id": "09211",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0908",
+    "commerceParentId": "9",
+    "name": "Traiguén",
+    "id": "09210",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0909",
+    "commerceParentId": "9",
+    "name": "Lumaco",
+    "id": "09207",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0910",
+    "commerceParentId": "9",
+    "name": "Purén",
+    "id": "09208",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0911",
+    "commerceParentId": "9",
+    "name": "Los Sauces",
+    "id": "09206",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0912",
+    "commerceParentId": "9",
+    "name": "Lautaro",
+    "id": "09108",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0913",
+    "commerceParentId": "9",
+    "name": "Perquenco",
+    "id": "09113",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0914",
+    "commerceParentId": "9",
+    "name": "Vilcún",
+    "id": "09119",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0915",
+    "commerceParentId": "9",
+    "name": "Cunco",
+    "id": "09103",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0916",
+    "commerceParentId": "9",
+    "name": "Melipeuco",
+    "id": "09110",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0917",
+    "commerceParentId": "9",
+    "name": "Curarrehue",
+    "id": "09104",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0918",
+    "commerceParentId": "9",
+    "name": "Pucón",
+    "id": "09115",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0919",
+    "commerceParentId": "9",
+    "name": "Villarrica",
+    "id": "09120",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0920",
+    "commerceParentId": "9",
+    "name": "Freire",
+    "id": "09105",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0921",
+    "commerceParentId": "9",
+    "name": "Pitrufquén",
+    "id": "09114",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0922",
+    "commerceParentId": "9",
+    "name": "Gorbea",
+    "id": "09107",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0923",
+    "commerceParentId": "9",
+    "name": "Loncoche",
+    "id": "09109",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0924",
+    "commerceParentId": "9",
+    "name": "Toltén",
+    "id": "09118",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0925",
+    "commerceParentId": "9",
+    "name": "Teodoro Schmidt",
+    "id": "09117",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0926",
+    "commerceParentId": "9",
+    "name": "Saavedra",
+    "id": "09116",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0927",
+    "commerceParentId": "9",
+    "name": "Carahue",
+    "id": "09102",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0928",
+    "commerceParentId": "9",
+    "name": "Nueva Imperial",
+    "id": "09111",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0929",
+    "commerceParentId": "9",
+    "name": "Galvarino",
+    "id": "09106",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0930",
+    "commerceParentId": "9",
+    "name": "Temuco",
+    "id": "09101",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0931",
+    "commerceParentId": "9",
+    "name": "Padre Las Casas",
+    "id": "09112",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "0932",
+    "commerceParentId": "9",
+    "name": "Cholchol",
+    "id": "0932",
+    "parentId": "9"
+  },
+  {
+    "commerceId": "1003",
+    "commerceParentId": "10",
+    "name": "Osorno",
+    "id": "10301",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1004",
+    "commerceParentId": "10",
+    "name": "Puerto Montt",
+    "id": "10101",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1005",
+    "commerceParentId": "10",
+    "name": "Puerto Varas",
+    "id": "10109",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1016",
+    "commerceParentId": "10",
+    "name": "San Pablo",
+    "id": "10307",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1018",
+    "commerceParentId": "10",
+    "name": "Puerto Octay",
+    "id": "10302",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1019",
+    "commerceParentId": "10",
+    "name": "Purranque",
+    "id": "10303",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1020",
+    "commerceParentId": "10",
+    "name": "Río Negro",
+    "id": "10305",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1021",
+    "commerceParentId": "10",
+    "name": "San Juan de la Costa",
+    "id": "10306",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1022",
+    "commerceParentId": "10",
+    "name": "Cochamó",
+    "id": "10103",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1023",
+    "commerceParentId": "10",
+    "name": "Calbuco",
+    "id": "10102",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1024",
+    "commerceParentId": "10",
+    "name": "Maullín",
+    "id": "10108",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1025",
+    "commerceParentId": "10",
+    "name": "Los Muermos",
+    "id": "10106",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1026",
+    "commerceParentId": "10",
+    "name": "Fresia",
+    "id": "10104",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1027",
+    "commerceParentId": "10",
+    "name": "Llanquihue",
+    "id": "10107",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1028",
+    "commerceParentId": "10",
+    "name": "Frutillar",
+    "id": "10105",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1029",
+    "commerceParentId": "10",
+    "name": "Castro",
+    "id": "10201",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1030",
+    "commerceParentId": "10",
+    "name": "Ancud",
+    "id": "10202",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1031",
+    "commerceParentId": "10",
+    "name": "Quemchi",
+    "id": "10209",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1032",
+    "commerceParentId": "10",
+    "name": "Dalcahue",
+    "id": "10205",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1033",
+    "commerceParentId": "10",
+    "name": "Curaco de Vélez",
+    "id": "10204",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1034",
+    "commerceParentId": "10",
+    "name": "Quinchao",
+    "id": "10210",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1035",
+    "commerceParentId": "10",
+    "name": "Puqueldón",
+    "id": "10206",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1036",
+    "commerceParentId": "10",
+    "name": "Chonchi",
+    "id": "10203",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1037",
+    "commerceParentId": "10",
+    "name": "Queilén",
+    "id": "10207",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1038",
+    "commerceParentId": "10",
+    "name": "Quellón",
+    "id": "10208",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1039",
+    "commerceParentId": "10",
+    "name": "Chaitén",
+    "id": "10401",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1040",
+    "commerceParentId": "10",
+    "name": "Hualaihue",
+    "id": "10403",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1041",
+    "commerceParentId": "10",
+    "name": "Futaleufú",
+    "id": "10402",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1042",
+    "commerceParentId": "10",
+    "name": "Palena",
+    "id": "10404",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1063",
+    "commerceParentId": "10",
+    "name": "Puerto Varas (Ensenada)",
+    "id": "1063",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1064",
+    "commerceParentId": "10",
+    "name": "Puerto Montt (Chamiza)",
+    "id": "1064",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1065",
+    "commerceParentId": "10",
+    "name": "Puerto Montt (Piedra Azul)",
+    "id": "1065",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1066",
+    "commerceParentId": "10",
+    "name": "Puerto Montt (Quillaipe)",
+    "id": "1066",
+    "parentId": "10"
+  },
+  {
+    "commerceId": "1101",
+    "commerceParentId": "11",
+    "name": "Coihaique",
+    "id": "11101",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1102",
+    "commerceParentId": "11",
+    "name": "Aisén",
+    "id": "11201",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1103",
+    "commerceParentId": "11",
+    "name": "Lago Verde",
+    "id": "11102",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1104",
+    "commerceParentId": "11",
+    "name": "Cisnes",
+    "id": "11202",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1105",
+    "commerceParentId": "11",
+    "name": "Guaitecas",
+    "id": "11203",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1106",
+    "commerceParentId": "11",
+    "name": "Chile Chico",
+    "id": "11401",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1107",
+    "commerceParentId": "11",
+    "name": "Río Ibáñez",
+    "id": "11402",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1108",
+    "commerceParentId": "11",
+    "name": "Cochrane",
+    "id": "11301",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1109",
+    "commerceParentId": "11",
+    "name": "Ohiggins",
+    "id": "11302",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1110",
+    "commerceParentId": "11",
+    "name": "Tortel",
+    "id": "11303",
+    "parentId": "11"
+  },
+  {
+    "commerceId": "1201",
+    "commerceParentId": "12",
+    "name": "Punta Arenas",
+    "id": "12101",
+    "parentId": "12"
+  },
+  {
+    "commerceId": "1301",
+    "commerceParentId": "13",
+    "name": "Santiago",
+    "id": "13101",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1302",
+    "commerceParentId": "13",
+    "name": "Recoleta",
+    "id": "13127",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1303",
+    "commerceParentId": "13",
+    "name": "Vitacura",
+    "id": "13132",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1304",
+    "commerceParentId": "13",
+    "name": "Huechuraba",
+    "id": "13107",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1305",
+    "commerceParentId": "13",
+    "name": "Quinta Normal",
+    "id": "13126",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1306",
+    "commerceParentId": "13",
+    "name": "Pudahuel",
+    "id": "13124",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1307",
+    "commerceParentId": "13",
+    "name": "Renca",
+    "id": "13128",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1308",
+    "commerceParentId": "13",
+    "name": "Conchalí",
+    "id": "13104",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1309",
+    "commerceParentId": "13",
+    "name": "Providencia",
+    "id": "13123",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1310",
+    "commerceParentId": "13",
+    "name": "Las Condes",
+    "id": "13114",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1311",
+    "commerceParentId": "13",
+    "name": "Ñuñoa",
+    "id": "13120",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1312",
+    "commerceParentId": "13",
+    "name": "La Reina",
+    "id": "13113",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1313",
+    "commerceParentId": "13",
+    "name": "San Miguel",
+    "id": "13130",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1314",
+    "commerceParentId": "13",
+    "name": "La Cisterna",
+    "id": "13109",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1315",
+    "commerceParentId": "13",
+    "name": "La Granja",
+    "id": "13111",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1316",
+    "commerceParentId": "13",
+    "name": "Maipú",
+    "id": "13119",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1317",
+    "commerceParentId": "13",
+    "name": "La Florida",
+    "id": "13110",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1318",
+    "commerceParentId": "13",
+    "name": "San Ramón",
+    "id": "13131",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1319",
+    "commerceParentId": "13",
+    "name": "Lo Barnechea",
+    "id": "13115",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1320",
+    "commerceParentId": "13",
+    "name": "Macul",
+    "id": "13118",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1321",
+    "commerceParentId": "13",
+    "name": "El Bosque",
+    "id": "13105",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1322",
+    "commerceParentId": "13",
+    "name": "Pedro Aguirre Cerda",
+    "id": "13121",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1323",
+    "commerceParentId": "13",
+    "name": "Lo Espejo",
+    "id": "13116",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1324",
+    "commerceParentId": "13",
+    "name": "Estación Central",
+    "id": "13106",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1325",
+    "commerceParentId": "13",
+    "name": "Cerrillos",
+    "id": "13102",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1327",
+    "commerceParentId": "13",
+    "name": "La Pintana",
+    "id": "13112",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1328",
+    "commerceParentId": "13",
+    "name": "Lo Prado",
+    "id": "13117",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1329",
+    "commerceParentId": "13",
+    "name": "Cerro Navia",
+    "id": "13103",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1330",
+    "commerceParentId": "13",
+    "name": "San Bernardo",
+    "id": "13401",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1331",
+    "commerceParentId": "13",
+    "name": "Puente Alto",
+    "id": "13201",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1332",
+    "commerceParentId": "13",
+    "name": "Quilicura",
+    "id": "13125",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1333",
+    "commerceParentId": "13",
+    "name": "Buin",
+    "id": "13402",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1334",
+    "commerceParentId": "13",
+    "name": "Colina",
+    "id": "13301",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1335",
+    "commerceParentId": "13",
+    "name": "Talagante",
+    "id": "13601",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1336",
+    "commerceParentId": "13",
+    "name": "Peñaflor",
+    "id": "13605",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1337",
+    "commerceParentId": "13",
+    "name": "Paine (Maipo)",
+    "id": "1337",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1338",
+    "commerceParentId": "13",
+    "name": "Calera de Tango",
+    "id": "13403",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1339",
+    "commerceParentId": "13",
+    "name": "Melipilla",
+    "id": "13501",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1340",
+    "commerceParentId": "13",
+    "name": "Curacaví",
+    "id": "13503",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1341",
+    "commerceParentId": "13",
+    "name": "El Monte",
+    "id": "13602",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1342",
+    "commerceParentId": "13",
+    "name": "Padre Hurtado",
+    "id": "13604",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1343",
+    "commerceParentId": "13",
+    "name": "Paine (Linderos)",
+    "id": "1343",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1344",
+    "commerceParentId": "13",
+    "name": "Peñalolén",
+    "id": "13122",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1345",
+    "commerceParentId": "13",
+    "name": "Til til",
+    "id": "13303",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1346",
+    "commerceParentId": "13",
+    "name": "Paine",
+    "id": "13404",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1347",
+    "commerceParentId": "13",
+    "name": "Lampa",
+    "id": "13302",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1352",
+    "commerceParentId": "13",
+    "name": "San José de Maipo (Cajon Del Maipo)",
+    "id": "1352",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1353",
+    "commerceParentId": "13",
+    "name": "San José de Maipo",
+    "id": "13203",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1354",
+    "commerceParentId": "13",
+    "name": "Pirque (Nos)",
+    "id": "1354",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1355",
+    "commerceParentId": "13",
+    "name": "Pirque",
+    "id": "13202",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1356",
+    "commerceParentId": "13",
+    "name": "Independencia",
+    "id": "13108",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1357",
+    "commerceParentId": "13",
+    "name": "San Joaquín",
+    "id": "13129",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1358",
+    "commerceParentId": "13",
+    "name": "María Pinto",
+    "id": "13504",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1359",
+    "commerceParentId": "13",
+    "name": "Buin (Malloco)",
+    "id": "1359",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1360",
+    "commerceParentId": "13",
+    "name": "Isla de Maipo",
+    "id": "13603",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1362",
+    "commerceParentId": "13",
+    "name": "Alhué",
+    "id": "13502",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1363",
+    "commerceParentId": "13",
+    "name": "San Pedro",
+    "id": "1363",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1364",
+    "commerceParentId": "13",
+    "name": "Lo Barnechea (La Parva)",
+    "id": "1364",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1365",
+    "commerceParentId": "13",
+    "name": "Lo Barnechea (El Colorado)",
+    "id": "1365",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1366",
+    "commerceParentId": "13",
+    "name": "Lo Barnechea (Valle Nevado)",
+    "id": "1366",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1367",
+    "commerceParentId": "13",
+    "name": "Lo Barnechea (Farellones)",
+    "id": "1367",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1369",
+    "commerceParentId": "13",
+    "name": "Lo Barnechea (La Dehesa)",
+    "id": "1369",
+    "parentId": "13"
+  },
+  {
+    "commerceId": "1401",
+    "commerceParentId": "14",
+    "name": "Corral",
+    "id": "14102",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1402",
+    "commerceParentId": "14",
+    "name": "Lanco",
+    "id": "14103",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1403",
+    "commerceParentId": "14",
+    "name": "Los Lagos",
+    "id": "14104",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1404",
+    "commerceParentId": "14",
+    "name": "Máfil",
+    "id": "14105",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1405",
+    "commerceParentId": "14",
+    "name": "Mariquina",
+    "id": "14106",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1406",
+    "commerceParentId": "14",
+    "name": "Paillaco",
+    "id": "14107",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1407",
+    "commerceParentId": "14",
+    "name": "Panguipulli",
+    "id": "14108",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1408",
+    "commerceParentId": "14",
+    "name": "Valdivia",
+    "id": "14101",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1409",
+    "commerceParentId": "14",
+    "name": "Futrono",
+    "id": "14202",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1410",
+    "commerceParentId": "14",
+    "name": "La Unión",
+    "id": "14201",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1411",
+    "commerceParentId": "14",
+    "name": "Lago Ranco",
+    "id": "14203",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1412",
+    "commerceParentId": "14",
+    "name": "Río Bueno",
+    "id": "14204",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1413",
+    "commerceParentId": "14",
+    "name": "Valdivia (Niebla)",
+    "id": "1413",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1414",
+    "commerceParentId": "14",
+    "name": "Mariquina (Los Molinos)",
+    "id": "1414",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1415",
+    "commerceParentId": "14",
+    "name": "Mariquina (Huellelhue)",
+    "id": "1415",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1416",
+    "commerceParentId": "14",
+    "name": "Mariquina (Pichoy)",
+    "id": "1416",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1417",
+    "commerceParentId": "14",
+    "name": "Mariquina (Mehuin)",
+    "id": "1417",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1418",
+    "commerceParentId": "14",
+    "name": "Máfil (Folilco)",
+    "id": "1418",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1419",
+    "commerceParentId": "14",
+    "name": "Lanco (Malalhue)",
+    "id": "1419",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1420",
+    "commerceParentId": "14",
+    "name": "Lanco (Cayumapu)",
+    "id": "1420",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1421",
+    "commerceParentId": "14",
+    "name": "Mariquina (Pelchuquin)",
+    "id": "1421",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1422",
+    "commerceParentId": "14",
+    "name": "Valdivia (Playa Rosada)",
+    "id": "1422",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1423",
+    "commerceParentId": "14",
+    "name": "Los Lagos (Reumen)",
+    "id": "1423",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1424",
+    "commerceParentId": "14",
+    "name": "Futrono (Bahia Coique)",
+    "id": "1424",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1425",
+    "commerceParentId": "14",
+    "name": "Paillaco (Pichirropulli)",
+    "id": "1425",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1426",
+    "commerceParentId": "14",
+    "name": "Panguipulli (Melefquen)",
+    "id": "1426",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1427",
+    "commerceParentId": "14",
+    "name": "Panguipulli (Rinihue)",
+    "id": "1427",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1428",
+    "commerceParentId": "14",
+    "name": "Mariquina (Antilhue)",
+    "id": "1428",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1429",
+    "commerceParentId": "14",
+    "name": "Panguipulli (Choshuenco)",
+    "id": "1429",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1430",
+    "commerceParentId": "14",
+    "name": "Panguipulli (Neltume)",
+    "id": "1430",
+    "parentId": "14"
+  },
+  {
+    "commerceId": "1501",
+    "commerceParentId": "15",
+    "name": "Arica",
+    "id": "15101",
+    "parentId": "15"
+  },
+  {
+    "commerceId": "1502",
+    "commerceParentId": "15",
+    "name": "Camarones",
+    "id": "15102",
+    "parentId": "15"
+  },
+  {
+    "commerceId": "1503",
+    "commerceParentId": "15",
+    "name": "General Lagos",
+    "id": "15202",
+    "parentId": "15"
+  },
+  {
+    "commerceId": "1504",
+    "commerceParentId": "15",
+    "name": "Putre",
+    "id": "15201",
+    "parentId": "15"
+  }
+]
