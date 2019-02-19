@@ -38,12 +38,11 @@ function parseLine(line, { fieldSeparator = ',', ...options } = {}) {
  * @param {String|RegExp} options.fieldSeparator
  * @param {Function[]} options.extraFieldParsers
  */
-export function parse(
-  content,
-  { lineSeparator = /\n|\r\n|\r/, stripHeaders = false, ...options } = {},
-) {
+function parse(content, { lineSeparator = /\n|\r\n|\r/, stripHeaders = false, ...options } = {}) {
   return content
     .split(lineSeparator)
     .slice(stripHeaders ? 1 : 0)
     .map(line => parseLine(line, options));
 }
+
+export { parse, parse as parseCSV };
