@@ -19,5 +19,5 @@ import { parseCSV } from './utils/csv';
     stripHeaders: true,
   });
 
-  console.log(content);
+  console.log(JSON.stringify(content, null, 2));
 })();
