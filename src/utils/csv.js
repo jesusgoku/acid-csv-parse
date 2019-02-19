@@ -42,6 +42,7 @@ function parseLine(line, { fieldSeparator = ',', ...options } = {}) {
  */
 function parse(content, { lineSeparator = /\n|\r\n|\r/, stripHeaders = false, ...options } = {}) {
   return content
+    .trim()
     .split(lineSeparator)
     .slice(stripHeaders ? 1 : 0)
     .map(line => parseLine(line, options));
