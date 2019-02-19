@@ -26,8 +26,12 @@ function parseField(field, { extraFieldParsers = [] } = {}) {
  * @param {Object} options
  * @param {String|RegExp} options.fieldSeparator
  */
-function parseLine(line, { fieldSeparator = ',', ...options } = {}) {
-  return line.split(fieldSeparator).map(field => parseField(field, options));
+function parseLine(line, { fieldSeparator = ',', extraLineParsers = [], ...options } = {}) {
+  return flow([
+    line => line.split(fieldSeparator),
+    line => line.map(field => parseField(field, options)),
+    ...extraLineParsers,
+  ])(line);
 }
 
 /**
