@@ -1,0 +1,13 @@
+{
+  "name": "csv-parse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r esm src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.2.5"
+  }
+}
