@@ -1,3 +1,5 @@
+import { flow } from './functional';
+
 /**
  * Apply trim to string
  *
@@ -14,7 +16,7 @@ function fieldTrim(field) {
  * @param {Object} options
  */
 function parseField(field, { extraFieldParsers = [] } = {}) {
-  return [fieldTrim, ...extraFieldParsers].reduce((partial, fn) => fn(partial), field);
+  return flow([fieldTrim, ...extraFieldParsers])(field);
 }
 
 /**
