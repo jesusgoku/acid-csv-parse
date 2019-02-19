@@ -8,6 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "esm": "^3.2.5"
+    "esm": "^3.2.5",
+    "jest": "^24.1.0"
   }
 }
