@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node -r esm src",
     "parse": "node -r esm src",
-    "match": "node -r esm src/match.js"
+    "match": "node -r esm src/match.js",
+    "sorting": "node -r esm src/sorting.js"
   },
   "dependencies": {},
   "devDependencies": {
