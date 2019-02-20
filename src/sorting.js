@@ -1,14 +1,19 @@
 import { sort } from './utils/sorting';
-import communes from '../data/sub-regions-v2.json';
 
-const communesSorted = sort(communes, ['parentId', 'name']);
-// const communesSorted = communes.sort(
-//   (a, b) => a.parentId - b.parentId || a.name.localeCompare(b.name),
-// );
+import { stdin, stdout } from 'process';
 
-// communesSorted.forEach(commune =>
-//   console.log(`${commune.parentId}.- ${commune.name}`),
-// );
+stdin.resume();
+stdin.setEncoding('utf8');
 
-// console.log(communesSorted);
-console.log(JSON.stringify(communesSorted, undefined, 2));
+const chunks = [];
+
+stdin.on('data', data => chunks.push(data));
+
+stdin.on('end', () => {
+  const inputJSON = chunks.join();
+  const parsedData = JSON.parse(inputJSON);
+  const communesSorted = sort(parsedData, ['parentId', 'name']);
+
+  stdout.write(JSON.stringify(communesSorted, undefined, 2));
+  stdout.write('\n');
+});
